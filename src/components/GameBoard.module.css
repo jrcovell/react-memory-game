@@ -1,0 +1,31 @@
+
+@media (max-width: 700px) {
+  .cardholder {
+     justify-items: center;
+  justify-content: center;
+  display: grid;
+  padding-top: 1rem;
+    background-color: green;
+    grid-template-rows: 125px 125px 125px 125px;
+    grid-template-columns: 125px 125px 125px 125px;
+    gap: 10px 10px;
+  }
+}
+
+@media (min-width: 700px) {
+
+ .cardholder {
+  justify-items: center;
+  justify-content: center;
+  display: grid;
+  
+  background-color: silver;
+  padding-top: 2rem;
+  grid-template-rows: 175px 175px 175px 175px;
+  grid-template-columns: 175px 175px 175px 175px;
+  gap: 20px 20px;
+
+ 
+}
+}  
+

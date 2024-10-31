@@ -1,0 +1,263 @@
+{
+  "easy": [
+    {
+      "id": "0",
+      "name": "A",
+      "img": "../icons/icons8-night-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "1",
+      "name": "A",
+      "img": "../icons/icons8-night-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "2",
+      "name": "B",
+      "img": "../icons/icons8-fog-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "3",
+      "name": "B",
+      "img": "../icons/icons8-fog-100.png",
+      "active": false,
+      "flipped": false
+    }
+  ],
+  "intermediate": [
+    {
+      "id": "0",
+      "name": "A",
+      "img": "../icons/icons8-night-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "1",
+      "name": "A",
+      "img": "../icons/icons8-night-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "2",
+      "name": "B",
+      "img": "../icons/icons8-moon-and-stars-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "3",
+      "name": "B",
+      "img": "../icons/icons8-moon-and-stars-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "4",
+      "name": "C",
+      "img": "../icons/icons8-snow-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "5",
+      "name": "C",
+      "img": "../icons/icons8-snow-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "6",
+      "name": "D",
+      "img": "../icons/icons8-spring-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "7",
+      "name": "D",
+      "img": "../icons/icons8-spring-100.png",
+      "active": false,
+      "flipped": false
+    }
+  ],
+  "hard": [
+    {
+      "id": "0",
+      "name": "A",
+      "img": "../icons/icons8-night-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "1",
+      "name": "A",
+      "img": "../icons/icons8-night-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "2",
+      "name": "B",
+      "img": "../icons/icons8-moon-and-stars-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "3",
+      "name": "B",
+      "img": "../icons/icons8-moon-and-stars-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "4",
+      "name": "C",
+      "img": "../icons/icons8-snow-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "5",
+      "name": "C",
+      "img": "../icons/icons8-snow-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "6",
+      "name": "D",
+      "img": "../icons/icons8-spring-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "7",
+      "name": "D",
+      "img": "../icons/icons8-spring-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "8",
+      "name": "E",
+      "img": "../icons/icons8-heavy-rain-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "9",
+      "name": "E",
+      "img": "../icons/icons8-heavy-rain-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "10",
+      "name": "F",
+      "img": "../icons/icons8-autumn-100.png",
+      "active": false,
+      "flipped": false
+    },
+    {
+      "id": "11",
+      "name": "F",
+      "img": "../icons/icons8-autumn-100.png",
+      "active": false,
+      "flipped": false
+    }
+  ],
+  "high-scores": [
+    {
+      "id": "9e63",
+      "name": "cream",
+      "difficulty": "intermediate",
+      "numTries": 7,
+      "timeRemaining": 6
+    },
+    {
+      "id": "ae71",
+      "name": "test",
+      "difficulty": "intermediate",
+      "numTries": 6,
+      "timeRemaining": 6
+    },
+    {
+      "id": "fc1d",
+      "name": "test",
+      "difficulty": "intermediate",
+      "numTries": 6,
+      "timeRemaining": 6
+    },
+    {
+      "id": "9785",
+      "name": "cream",
+      "difficulty": "intermediate",
+      "numTries": 7,
+      "timeRemaining": 6
+    },
+    {
+      "id": "9312",
+      "name": "cream2",
+      "difficulty": "intermediate",
+      "numTries": 4,
+      "timeRemaining": 1991
+    }
+  ],
+  "images": [
+    {
+      "id": "1",
+      "src": "../icons/icons8-night-100.png"
+    },
+    {
+      "id": "2",
+      "src": "../icons/icons8-moon-and-stars-100.png"
+    },
+    {
+      "id": "3",
+      "src": "../icons/icons8-sun-100.png"
+    },
+    {
+      "id": "4",
+      "src": "../icons/icons8-night-100.png"
+    },
+    {
+      "id": "5",
+      "src": "../icons/icons8-sun-100.png"
+    },
+    {
+      "id": "6",
+      "src": "../icons/icons8-night-100.png"
+    },
+    {
+      "id": "7",
+      "src": "../icons/icons8-sun-100.png"
+    },
+    {
+      "id": "8",
+      "src": "../icons/icons8-night-100.png"
+    },
+    {
+      "id": "9",
+      "src": "../icons/icons8-sun-100.png"
+    },
+    {
+      "id": "10",
+      "src": "../icons/icons8-night-100.png"
+    },
+    {
+      "id": "11",
+      "src": "../icons/icons8-sun-100.png"
+    },
+    {
+      "id": "12",
+      "src": "../icons/icons8-night-100.png"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  * {
+    /* margin: 5rem; */
+    /* padding: 0; */
+    /* box-sizing: inherit; */
+    /* overflow: hidden; */
+  }
+  
+
+body {
+  min-height: 100vh;
+  background-color: steelblue;
+  /* padding: 3.2rem; */
+}
+
+
+
+
+}
+
+
+

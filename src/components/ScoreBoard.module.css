@@ -1,0 +1,16 @@
+.scoreboard {
+
+  background-color: cadetblue;
+  gap: 5rem;
+  /* margin-bottom: 5rem; */
+  /* padding-bottom: 5rem; */
+  border-bottom: 1px solid black;
+  display: flex;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+
+

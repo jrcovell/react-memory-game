@@ -1,0 +1,17 @@
+.loader {
+
+  background-color: steelblue;
+  padding: auto;
+  gap: 5rem;
+  margin: auto;
+  width: 100%;
+  height: 100%; 
+
+  /* margin-bottom: 1.5rem; */
+  border-bottom: 1px solid black;
+  display: flex;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  align-items: center;
+  justify-content: center;
+}
