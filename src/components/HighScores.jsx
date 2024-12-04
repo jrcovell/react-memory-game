@@ -8,7 +8,7 @@ const {highScore, handleDeleteScore} = useGame()
 console.log(highScore)
     return (
         <>
-        <span>name || numGuesses || ...</span>
+        <h2>High Scores</h2>
         <div className="font-bold">
           {highScore.map((score) =>  
             <div key={score.id}>Points:{score.numTries + score.timeRemaining} || Player:{score.name} ||

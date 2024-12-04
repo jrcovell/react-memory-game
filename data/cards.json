@@ -173,43 +173,7 @@
       "flipped": false
     }
   ],
-  "high-scores": [
-    {
-      "id": "9e63",
-      "name": "cream",
-      "difficulty": "intermediate",
-      "numTries": 7,
-      "timeRemaining": 6
-    },
-    {
-      "id": "ae71",
-      "name": "test",
-      "difficulty": "intermediate",
-      "numTries": 6,
-      "timeRemaining": 6
-    },
-    {
-      "id": "fc1d",
-      "name": "test",
-      "difficulty": "intermediate",
-      "numTries": 6,
-      "timeRemaining": 6
-    },
-    {
-      "id": "9785",
-      "name": "cream",
-      "difficulty": "intermediate",
-      "numTries": 7,
-      "timeRemaining": 6
-    },
-    {
-      "id": "9312",
-      "name": "cream2",
-      "difficulty": "intermediate",
-      "numTries": 4,
-      "timeRemaining": 1991
-    }
-  ],
+  "high-scores": [],
   "images": [
     {
       "id": "1",
